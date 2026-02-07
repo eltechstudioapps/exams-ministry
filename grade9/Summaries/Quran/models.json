@@ -1,0 +1,16 @@
+[
+  {
+    "subject": "التربية الإسلامية",
+    "year": "2023",
+    "model_id": 1,
+    "model_name": "Form 1",
+    "csv_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/grade12_scientific/Ministerial/models1.csv"
+  },
+  {
+    "subject": "التربية الإسلامية",
+    "year": "2023",
+    "model_id": 2,
+    "model_name": "Form 2",
+    "csv_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/grade12_scientific/Ministerial/models2.csv"
+  }
+]
